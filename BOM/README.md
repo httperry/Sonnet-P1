@@ -6,8 +6,6 @@
 This folder will contain the complete Bill of Materials for the sonnet P1 Project, including components, part numbers, and soursing links
 
 
-## Current Status
-
-*To be worked on.*
+## Current Status - TO BE WORKED ON
 
 The BOM will be generated and uploaded once the schematics and PCB layout are finalized.
