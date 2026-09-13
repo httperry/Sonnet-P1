@@ -1,9 +1,9 @@
-#Bill of Materials (BOM)
+# Bill of Materials (BOM)
 
 ![Status](https://img.shields.io/badge/Status-To%20Do-lightgrey?style=flat-square)
 
 
-This folder will contain the complete Bill of Materials for the sonnet P1 Project, including components, part numbers, and courcing links
+This folder will contain the complete Bill of Materials for the sonnet P1 Project, including components, part numbers, and soursing links
 
 
 ## Current Status
