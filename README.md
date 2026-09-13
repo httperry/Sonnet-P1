@@ -34,17 +34,14 @@ Why Sarvam AI?
 The device, since can recorgnise sign languages, can be trained to further make most of itself by using it as a gesture/navigator for devices. Eg: We can play games by connecting the device and using our gestures as controls. This is one of the many possiblities that we can come up with
 
 
-## Progress
+# Progress
 
 | Module | Status | Link |
 |---|---|---|
-
-|Schmatics|![In Progress](https://img.shields.io/badge/Status-In%20Progress-orange?style = flat-square)|[View](./Schematics/README.md)|
-
-|PCB Layout| ![In Progress](https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square)|[View](./PCB/README.md)|
-
-|Enclosure (CAD)|![Working on](https://img.shields.io/badge Status-In%20Progress-orange?style=flat-square)|[View](./Enclosure/README.md)|
-|BOM|![To Do](https://img.shields.io/badge/Status-To%20DO-lightgrey?style=flat-square)|[View](./BOM/README.md)|
+| Schematics | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square) | [View](./Schematics/README.md) |
+| PCB Layout | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square) | [View](./PCB/README.md) |
+| Enclosure (CAD) | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square) | [View](./Enclosure/README.md) |
+| BOM | ![To Do](https://img.shields.io/badge/Status-To%20Do-lightgrey?style=flat-square) | [View](./BOM/README.md) |
 
 ---
 
