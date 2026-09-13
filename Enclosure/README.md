@@ -10,7 +10,7 @@ This folder holds the CAD files, 3D models, and mechanical designs for the **Son
 
 *Currently working on the CAD files.*
 
-The enclosure is being actively designed to house the **PCB**, the **500 mAh LiPo battery**, and the **mechanical kill-switch** while strictly maintaining the **form factor (52 × 38 × 12 mm³)** form factor.
+The enclosure is being actively designed to house the **PCB**, the **500 mAh LiPo battery**, and the **mechanical kill-switch** while strictly maintaining the **form factor (52 × 38 × 12 mm³)**.
 
 It is also being optimized to ensure no interference with the **FMCW radar's Antenna in Package (AIP) array** and the **UWB omnidirectional ceramic patch antenna**.
 
