@@ -45,3 +45,6 @@ The device, since can recorgnise sign languages, can be trained to further make 
 
 ---
 
+## License
+MIT — see [License](./LICENSE)
+
