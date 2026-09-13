@@ -9,7 +9,7 @@
 
 ---
 
-*Navigate: * [Schematics](./Schematics/README.md) · [PCB](./PCB/README.md) · [Enclosure](./Enclosure/README.md) · [BOM](./BOM/README.md) · [Assets](./Assets/README.md)
+*Navigate:* [Schematics](./Schematics/README.md) · [PCB](./PCB/README.md) · [Enclosure](./Enclosure/README.md) · [BOM](./BOM/README.md) · [Assets](./Assets/README.md)
 
 ---
 
