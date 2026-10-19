@@ -188,6 +188,8 @@ So it took me quite some time to shift all the journals from the previous projec
 
 But at last all the journals are updated and completed with proper descriptions of the work done, I have updated the GitHub for this too
 
+![image](https://cdn.hackclub.com/01a1536a-06ff-758a-9723-04d00e683b4e/Screenshot%202026-10-19%20143645.png)
+
 That's it for today!
 
 Adios!
