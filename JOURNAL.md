@@ -223,7 +223,12 @@ The rest of the time went into building out the buck converters to step down VSY
 
 Hunting down the in stock passives on LCSC took a bit of time, but the core power management sheet is pretty much locked in
 
-![image](https://cdn.hackclub.com/01a19ad7-e99e-7924-a40f-fd1aa8b1a68b/2.png)
+![image](https://cdn.hackclub.com/01a19b0b-80e2-78c4-b69e-b8dcb5d717b4/18.1.png)
+![image](https://cdn.hackclub.com/01a19b0c-d657-7885-b10a-8d4afe2ecba0/18.2.png)
+![image](https://cdn.hackclub.com/01a19b0e-10cb-71e7-9df1-579a9167326c/18.3.png)
+![image](https://cdn.hackclub.com/01a19b0e-ea19-71dc-a1da-24b51f006fc9/18.4.png)
+
+
 
 # 2026-10-19: Canaan K230D Core Schematic & Clock Circuitry [by npc.jdp]
 
