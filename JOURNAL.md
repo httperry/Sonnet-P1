@@ -281,7 +281,7 @@ Mortals!
 Welp today I summoned a new schematic, specifically for the user feedback side of our device, setting up the audio output and status lighting on the schematic :)
 
 That's all from my end, I'll let httperry review all of this and make changes in our schematics, they feel like my children now lmaoo... wait does that mean I'm a dad now? Ouu shi 
-![image]([https://cdn.hackclub.com/01a19afb-059e-7106-8e40-5e4b6dd1ea6b/Screenshot%202026-11-02%20120816.png](https://cdn.hackclub.com/01a19b04-92be-7e0a-92d8-43523d75828f/29.png)))
+![image](https://cdn.hackclub.com/01a19b04-92be-7e0a-92d8-43523d75828f/29.png)
 
 
 
