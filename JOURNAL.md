@@ -199,8 +199,13 @@ Adios!
 **Total time spent: 0.5 hours**
 
 Mortals!
-Now that the enclosure and migration stuff is done with, I decided to take the schematics into my own hands... mind you I'm a beginner so httperry will be monitoring me (BUT I'll do most of the schematics ahem)... I started with power management, on easy eda the goat ofc For battery charging and power path management, I'm using Texas Instruments' BQ24075 so the device can run straight off USB-C while charging the Li-Po cell. Kept the datasheet open paralelly, grabbed the SMD passives from LCSC, and wired up the core connections and status lines around the IC. 
+
+Now that the enclosure and migration stuff is done with, I decided to take the schematics into my own hands... mind you I'm a beginner so httperry will be monitoring me (BUT I'll do most of the schematics ahem)... 
+
+I started with power management, on easy eda the goat ofc For battery charging and power path management, I'm using Texas Instruments' BQ24075 so the device can run straight off USB-C while charging the Li-Po cell. Kept the datasheet open paralelly, grabbed the SMD passives from LCSC, and wired up the core connections and status lines around the IC. 
+
 A lot of work is pending obv but yepp, felt good to start. >:)
+
 ![image](https://cdn.hackclub.com/01a19ac1-093c-7245-af1e-7217f54af6b0/Screenshot%202026-11-02%20110423.png)
 
 
