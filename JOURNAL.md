@@ -194,7 +194,7 @@ That's it for today!
 
 Adios!
 
-# 2026-10-22: Power Management schematic [by npc.jdp]
+# 2026-10-06: Power Management schematic [by npc.jdp]
 
 **Total time spent: 0.5 hours**
 
@@ -207,6 +207,98 @@ I started with power management, on easy eda the goat ofc For battery charging a
 A lot of work is pending obv but yepp, felt good to start. >:)
 
 ![image](https://cdn.hackclub.com/01a19ac1-093c-7245-af1e-7217f54af6b0/Screenshot%202026-11-02%20110423.png)
+
+
+# 2026-10-18: Power Rails & Fuel Gauge [by npc.jdp]
+
+**Total time spent: 2.25 hours**
+
+Mortals!
+
+Now that the main charger block skeleton is dealt with, I decided to wrap that shi up
+
+First off, I dialed in the current limit resistors (ILIM and ISET) for the BQ24075 charger and added the 3-pin JST battery connector along with the NTC thermal line. Once that was sorted, I dropped in a MAX17048 fuel gauge IC so the MCU can track state-of-charge over I2C without relying on messy voltage curves.
+
+The rest of the time went into building out the buck converters to step down VSYS into the core voltages. Set up a TPS62823 for the 0.8V core line, followed by a dual-channel TPS62420 for the 1.1V DDR and 1.8V system rails, wiring up their inductors, filter caps, and feedback networks.
+
+Hunting down the in stock passives on LCSC took a bit of time, but the core power management sheet is pretty much locked in
+
+![image](https://cdn.hackclub.com/01a19ad7-e99e-7924-a40f-fd1aa8b1a68b/2.png)
+
+# 2026-10-19: Canaan K230D Core Schematic & Clock Circuitry [by npc.jdp]
+
+**Total time spent: 2.25 hours**
+
+Mortals!
+
+Now that the power rails and charging blocks were in place, I decided to work on the cpu and create a dedicated sheet for our Canaan K230D(Looked like a literall caterpillar ahem)
+
+Most of the time went into cross checking pin nets and building the decoupling banks, but having the main SoC core, clocks, and basic housekeeping done gets a huge chunk of the schematic finished!
+
+![image](https://cdn.hackclub.com/01a19ae0-b779-746e-b65a-5b97a5443197/Screenshot%202026-11-02%20113932.png)
+
+# 2026-10-21: K230D Storage, Boot Configuration & System Reset [by npc.jdp]
+
+**Total time spent:1.5 hours hours**
+
+Mortals! Ben a while eh? 
+
+Now that the core power rails, decoupling caps, and crystal oscillators were settled, today was all about getting storage, boot selection, and basic system controls wired up for the K230D.
+
+I guess the sheet is pretty much wrapped up... I was thinking to drop the sd card slot but let's see no commento yet
+
+![image](https://cdn.hackclub.com/01a19ae7-cbce-74b1-85d2-158e997e88f6/3.png)
+
+# 2026-10-23: Radio Wave Front end and clocking [by npc.jdp]
+
+**Total time spent:0.75 hours**
+
+Mortals!
+
+Now that the K230D processing core, boot logic, and storage peaced out, I moved on to the main sensory hardware, the 60GHz mmWave radar transceiver, the main hero of this project in my opinion ahem
+
+Made a new schematic for dat boi to set up the Infineon BGT60TR13C sensor block... Played a lilw ith esp 32 too but we talk about that mainly the next time
+![image](https://cdn.hackclub.com/01a19aef-6165-7972-806b-4e9879a14570/Screenshot%202026-11-02%20115503.png)
+
+# 2026-10-26: Esp 32- Coprocessor [by npc.jdp]
+
+**Total time spent:1.5 hours**
+
+Mortals!
+
+Now that the 60GHz mmWave radar front end and clocking were bullied and finished, today I dealt with the wireless connectivity side for WiFi and Bluetooth. Fun fact: this is gonna be used to translate shyt into other languages like gawd dayum peak shi
+
+Made a new schematic for this to crown our ESP32-C6-WROOM-1 module as our wireless co-processor
+
+![image]([https://cdn.hackclub.com/01a19aef-6165-7972-806b-4e9879a14570/Screenshot%202026-11-02%20115503.png](https://cdn.hackclub.com/01a19af4-f7d8-7ecd-ba44-33b0c13bc554/Screenshot%202026-11-02%20120140.png))
+
+# 2026-10-29: Audio Amplifier & Status RGB Driver [by npc.jdp]
+
+**Total time spent:1 hours**
+
+Mortals!
+
+Welp today I summoned a new schematic, specifically for the user feedback side of our device, setting up the audio output and status lighting on the schematic :)
+
+That's all from my end, I'll let httperry review all of this and make changes in our schematics, they feel like my children now lmaoo... wait does that mean I'm a dad now? Ouu shi 
+![image](https://cdn.hackclub.com/01a19afb-059e-7106-8e40-5e4b6dd1ea6b/Screenshot%202026-11-02%20120816.png))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
