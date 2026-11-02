@@ -288,26 +288,26 @@ Welp today I summoned a new schematic, specifically for the user feedback side o
 That's all from my end, I'll let httperry review all of this and make changes in our schematics, they feel like my children now lmaoo... wait does that mean I'm a dad now? Ouu shi 
 ![image](https://cdn.hackclub.com/01a19b04-92be-7e0a-92d8-43523d75828f/29.png)
 
+# 2026-11-02: Fix errors in the schematic made by my friend (and forced him to do his journals) and updated CAD to add a speaker to the design
 
+**Total time spent: 6 hours**
 
+Yallo!
 
+So today was a big azz day, npc.jdp had created soo many fkin issues in the schematic that I had to redo a few and I switched over to a neopixel in the schematic
 
+I then continued to update the CAD model to add the speaker
 
+I'm too tired for the day and I'll fs do the journalling tomorrow :despair:
 
+![image](https://cdn.hackclub.com/01a19bce-3e0b-75de-90c8-b2ca149b1a17/Screenshot%202026-11-02%20155446.png)
 
+![image](https://cdn.hackclub.com/01a19bce-3ee6-745e-bc33-a2f7aab46ea9/Screenshot%202026-11-02%20140348.png)
 
+![image](https://cdn.hackclub.com/01a19bce-3fb8-7ce2-9584-9ecf2a69114c/Screenshot%202026-11-02%20120202.png)
 
+![image](https://cdn.hackclub.com/01a19bce-405a-76b0-9da8-5093ebd56cef/Screenshot%202026-11-02%20120123.png)
 
+That's it for today!
 
-
-
-
-
-
-
-
-
-
-
-
-
+Adios!
