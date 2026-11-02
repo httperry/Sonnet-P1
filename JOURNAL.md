@@ -247,7 +247,7 @@ Now that the core power rails, decoupling caps, and crystal oscillators were set
 
 I guess the sheet is pretty much wrapped up... I was thinking to drop the sd card slot but let's see no commento yet
 
-![image](https://cdn.hackclub.com/01a19ae7-cbce-74b1-85d2-158e997e88f6/3.png)
+![image](https://cdn.hackclub.com/01a19b05-6dc5-7777-9fd9-bb9b46cd2405/21.png)
 
 # 2026-10-23: Radio Wave Front end and clocking [by npc.jdp]
 
@@ -270,7 +270,7 @@ Now that the 60GHz mmWave radar front end and clocking were bullied and finished
 
 Made a new schematic for this to crown our ESP32-C6-WROOM-1 module as our wireless co-processor
 
-![image]([https://cdn.hackclub.com/01a19aef-6165-7972-806b-4e9879a14570/Screenshot%202026-11-02%20115503.png](https://cdn.hackclub.com/01a19af4-f7d8-7ecd-ba44-33b0c13bc554/Screenshot%202026-11-02%20120140.png))
+![image](https://cdn.hackclub.com/01a19af4-f7d8-7ecd-ba44-33b0c13bc554/Screenshot%202026-11-02%20120140.png)
 
 # 2026-10-29: Audio Amplifier & Status RGB Driver [by npc.jdp]
 
@@ -281,7 +281,7 @@ Mortals!
 Welp today I summoned a new schematic, specifically for the user feedback side of our device, setting up the audio output and status lighting on the schematic :)
 
 That's all from my end, I'll let httperry review all of this and make changes in our schematics, they feel like my children now lmaoo... wait does that mean I'm a dad now? Ouu shi 
-![image](https://cdn.hackclub.com/01a19afb-059e-7106-8e40-5e4b6dd1ea6b/Screenshot%202026-11-02%20120816.png))
+![image]([https://cdn.hackclub.com/01a19afb-059e-7106-8e40-5e4b6dd1ea6b/Screenshot%202026-11-02%20120816.png](https://cdn.hackclub.com/01a19b04-92be-7e0a-92d8-43523d75828f/29.png)))
 
 
 
