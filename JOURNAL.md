@@ -235,7 +235,7 @@ Now that the power rails and charging blocks were in place, I decided to work on
 
 Most of the time went into cross checking pin nets and building the decoupling banks, but having the main SoC core, clocks, and basic housekeeping done gets a huge chunk of the schematic finished!
 
-![image](https://cdn.hackclub.com/01a19ae0-b779-746e-b65a-5b97a5443197/Screenshot%202026-11-02%20113932.png)
+![image](https://cdn.hackclub.com/01a19b07-3376-7828-b559-860af5cdd7e8/19.png)
 
 # 2026-10-21: K230D Storage, Boot Configuration & System Reset [by npc.jdp]
 
